@@ -1,3 +1,3 @@
 #!/usr/local/bin/bash
 
-hugo -d docs
+hugo -d docs -t relearn --cleanDestinationDir
