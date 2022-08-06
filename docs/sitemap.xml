@@ -1,15 +1,88 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://WellRedPandit.github.io/homepage/work/</loc>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/homepage/about/</loc>
+  </url>
   <url>
     <loc>http://WellRedPandit.github.io/about/</loc>
-    <lastmod>2022-07-31T19:08:20-04:00</lastmod>
-  </url><url>
-    <loc>http://WellRedPandit.github.io/</loc>
-    <priority>0</priority>
-  </url><url>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://WellRedPandit.github.io/categories/</loc>
-  </url><url>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/tags/css/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/tags/emoji/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/post/emoji-support/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/tags/html/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/tags/markdown/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/post/markdown-syntax/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/post/math-typesetting/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/post/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/tags/privacy/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/post/rich-content/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/tags/shortcodes/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/post/subposts/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/post/subposts/text/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/categories/syntax/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://WellRedPandit.github.io/tags/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/tags/text/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/categories/themes/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://WellRedPandit.github.io/tags/index/</loc>
   </url>
 </urlset>

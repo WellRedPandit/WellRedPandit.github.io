@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sub Posts on WRP portfolio</title>
+    <link>http://WellRedPandit.github.io/post/subposts/</link>
+    <description>Recent content in Sub Posts on WRP portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://WellRedPandit.github.io/post/subposts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SubPosts Lorem</title>
+      <link>http://WellRedPandit.github.io/post/subposts/text/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://WellRedPandit.github.io/post/subposts/text/</guid>
+      <description>&lt;h1 id=&#34;wrp&#34;&gt;WRP&lt;/h1&gt;
+&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

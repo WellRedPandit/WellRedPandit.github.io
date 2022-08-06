@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on WRP portfolio</title>
+    <link>http://WellRedPandit.github.io/tags/index/</link>
+    <description>Recent content in index on WRP portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://WellRedPandit.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>http://WellRedPandit.github.io/post/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://WellRedPandit.github.io/post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sub Posts</title>
+      <link>http://WellRedPandit.github.io/post/subposts/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://WellRedPandit.github.io/post/subposts/</guid>
+      <description>SubPosts _index.md</description>
+    </item>
+  </channel>
+</rss>
